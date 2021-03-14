@@ -1,0 +1,4 @@
+bazel-bin
+bazel-ndtech-proto
+bazel-out
+bazel-testlogs
